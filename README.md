@@ -2,8 +2,9 @@
 
 ## 🚀 Começando . . .
 
-O objetivo principal do desenvolvimento dessa API, foi estudar a nossa versão do framework, como desenvolver uma API utilizando os nossos recursos como Minimal APIs.
+O objetivo principal do desenvolvimento dessa API, foi estudar a nova versão do framework, como desenvolver uma API utilizando os nossos recursos como Minimal APIs.
 
+Para o funcionamento do CRUD, utilizei uma imagem docker do SQL Server para armazenar dados.
 
 ## ✒️ Dev
 
